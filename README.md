@@ -6,10 +6,12 @@
 
 ### Work
 
+- [Bruno](https://usebruno.com)
 - [Cyberduck](https://cyberduck.io)
+- [DBngin](https://dbngin.com)
 - [Docker](https://docker.com)
 - [HTTPie](https://httpie.io)
-- [Kitty](https://sw.kovidgoyal.net/kitty)
+- [Hyper](https://hyper.is)
 - [PhpStorm](https://jetbrains.com/fr-fr/phpstorm)
 - [Sequel Ace](https://sequel-ace.com)
 - [Visual Studio Code](https://code.visualstudio.com)
@@ -51,6 +53,7 @@
 
 ### Entertainment
 
+- [Ankama](https://ankama.com/fr/launcher)
 - [Battle.net](https://battle.net)
 - [CurseForge](https://curseforge.com)
 - [Spotify](https://spotify.com)
@@ -81,7 +84,6 @@ Extensions for Visual Studio Code :
 - [Color Info](https://marketplace.visualstudio.com/items?itemName=bierner.color-info)
 - [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
 - [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
-- [Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
 - [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 - [file-icons](https://marketplace.visualstudio.com/items?itemName=file-icons.file-icons)
@@ -89,29 +91,30 @@ Extensions for Visual Studio Code :
 - [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
 - [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
 - [GitHub Copilot Chat](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat)
-- [gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore)
+- [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=github.github-vscode-theme)
 - [Image preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)
 - [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
 - [IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
-- [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+- [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+- [Modern Twig](https://marketplace.visualstudio.com/items?itemName=stanislav.vscode-twig)
 - [NGINX Configuration Language Support](https://marketplace.visualstudio.com/items?itemName=ahmadalli.vscode-nginx-conf)
 - [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 - [PHP Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client)
 - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [Regex Previewer](https://marketplace.visualstudio.com/items?itemName=chrmarti.regex)
 - [Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
 - [Remote - SSH: Editing Configuration FilesPreview](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh-edit)
 - [Remote Explorer](https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-explorer)
-- [Twig Language Support](https://marketplace.visualstudio.com/items?itemName=rholdos.twig-language-support)
 
 ## Terminal
 
-Kitty is my go-to terminal.
+Hyper is my go-to terminal.
 
 - Shell: Zsh with [Oh My Zsh](https://ohmyz.sh)
-- Plugin manager: [Antigen](https://github.com/zsh-users/antigen)
-- Prompt: [Spaceship](https://github.com/spaceship-prompt/spaceship-prompt)
-- Theme: [Dracula](https://draculatheme.com)
+- Plugin manager: [Antidote](https://github.com/mattmc3/antidote)
+- Prompt: [Starship](https://github.com/starship/starship)
+- Theme: [Hyperocean](https://github.com/klaudiosinani/hyperocean)
 - Font: [FiraCode Nerd Font](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/FiraCode)
 - Packages manager: [Brew](https://brew.sh)
 
