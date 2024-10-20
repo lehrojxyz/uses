@@ -22,6 +22,7 @@
 - [ChatGPT](https://chatgpt.com)
 - [NetNewsWire](https://netnewswire.com)
 - [Notion](https://notion.so)
+- [Raycast](https://raycast.com)
 
 ### Discuss
 
@@ -38,7 +39,6 @@
 - [Fontplop](https://github.com/matthewgonzalez/fontplop)
 - [IINA](https://iina.io)
 - [ImageOptim](https://imageoptim.com)
-- [Raycast](https://raycast.com)
 - [Rectangle](https://rectangleapp.com)
 - [SuperDuper!](https://shirt-pocket.com/SuperDuper)
 - [The Unarchiver](https://theunarchiver.com)
@@ -74,6 +74,7 @@ Extensions for Google Chrome :
 ## Editor
 
 Visual Studio Code is my go-to editor, PhpStorm at work.
+<br>
 The theme I use is [GitHub Dark Default](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme) with the font [Geist](https://github.com/vercel/geist-font).
 
 Extensions for Visual Studio Code :
