@@ -10,10 +10,11 @@
 - [Cyberduck](https://cyberduck.io)
 - [DBngin](https://dbngin.com)
 - [Docker](https://docker.com)
-- [Hyper](https://hyper.is)
+- [Ghostty](https://ghostty.org)
 - [PhpStorm](https://jetbrains.com/fr-fr/phpstorm)
 - [Sequel Ace](https://sequel-ace.com)
 - [Visual Studio Code](https://code.visualstudio.com)
+- [Visual Paradigm](https://visual-paradigm.com)
 
 ### Productivity
 
@@ -22,23 +23,25 @@
 - [ChatGPT](https://chatgpt.com)
 - [NetNewsWire](https://netnewswire.com)
 - [Notion](https://notion.so)
-- [Raycast](https://raycast.com)
+- [Reminders](https://support.apple.com/guide/reminders)
 
 ### Discuss
 
 - [Contacts](https://support.apple.com/guide/contacts)
 - [FaceTime](https://support.apple.com/guide/facetime)
 - [Messages](https://support.apple.com/guide/messages)
+- [Proton Mail](https://proton.me/mail)
 - [Slack](https://slack.com)
 - [WhatsApp](https://whatsapp.com)
 
 ### Utility
 
-- [CleanMyMac X](https://cleanmymac.com)
+- [CleanMyMac](https://cleanmymac.com)
 - [DisplayLink Manager](https://synaptics.com/products/displaylink-graphics/downloads/macos)
 - [Fontplop](https://github.com/matthewgonzalez/fontplop)
 - [IINA](https://iina.io)
 - [ImageOptim](https://imageoptim.com)
+- [Raycast](https://raycast.com)
 - [Rectangle](https://rectangleapp.com)
 - [SuperDuper!](https://shirt-pocket.com/SuperDuper)
 - [The Unarchiver](https://theunarchiver.com)
@@ -64,16 +67,16 @@ Google Chrome is my go-to browser.
 Extensions for Google Chrome :
 
 - [1Password](https://chromewebstore.google.com/detail/1password-%E2%80%93-gestionnaire/aeblfdkhhhdcdjpifhhbdiojplfjncoa)
+- [AdGuard AdBlocker](https://chromewebstore.google.com/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg)
 - [Colorzilla](https://chromewebstore.google.com/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)
 - [Fontface Ninja](https://chromewebstore.google.com/detail/fontface-ninja/eljapbgkmlngdpckoiiibecpemleclhh)
 - [JSON Formatter](https://chromewebstore.google.com/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa)
 - [React Developer Tools](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
-- [uBlock Origin](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 - [Wappalyzer](https://chromewebstore.google.com/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg)
 
 ## Editor
 
-Visual Studio Code is my go-to editor, PhpStorm at work.
+Visual Studio Code is my go-to editor.
 <br>
 The theme I use is [GitHub Dark Default](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme) with the font [Geist](https://github.com/vercel/geist-font).
 
@@ -107,16 +110,22 @@ Extensions for Visual Studio Code :
 - [Remote - SSH: Editing Configuration FilesPreview](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh-edit)
 - [Remote Explorer](https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-explorer)
 
+I also use PhpStorm at work.
+
 ## Terminal
 
-Hyper is my go-to terminal.
+Ghostty is my go-to terminal.
 
-- Shell: Zsh with [Oh My Zsh](https://ohmyz.sh)
-- Plugin manager: [Antidote](https://github.com/mattmc3/antidote)
-- Prompt: [Starship](https://github.com/starship/starship)
-- Theme: [Hyperocean](https://github.com/klaudiosinani/hyperocean)
-- Font: [Geist](https://github.com/vercel/geist-font)
 - Packages manager: [Brew](https://brew.sh)
+- Plugin manager: [Antidote](https://github.com/mattmc3/antidote)
+- Shell: Zsh with [Oh My Zsh](https://ohmyz.sh)
+- Prompt: [Starship](https://github.com/starship/starship)
+- Theme: GitHub Dark (built-in in Ghostty)
+- Font: [Geist](https://github.com/vercel/geist-font)
+
+Ghostty config [here](https://github.com/lehroj/setup/blob/main/dotfiles/term/ghostty.conf).
+<br>
+Starship config [here](https://github.com/lehroj/setup/blob/main/dotfiles/term/starship.toml).
 
 ## Note
 
