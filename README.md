@@ -118,7 +118,7 @@ Ghostty is my go-to terminal.
 - Plugin manager: [Antidote](https://github.com/mattmc3/antidote)
 - Shell: Zsh with [Oh My Zsh](https://ohmyz.sh)
 - Prompt: [Starship](https://github.com/starship/starship)
-- Theme: GitHub Dark (built-in in Ghostty)
+- Theme: GitHub Dark (Ghostty built-in)
 - Font: [Geist](https://github.com/vercel/geist-font)
 
 Ghostty config [here](https://github.com/lehroj/setup/blob/main/dotfiles/term/ghostty.conf).
