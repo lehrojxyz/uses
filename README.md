@@ -90,6 +90,7 @@ Extensions for Visual Studio Code :
 - [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
 - [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+- [Even Better TOMLPreview](https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml)
 - [file-icons](https://marketplace.visualstudio.com/items?itemName=file-icons.file-icons)
 - [gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore)
 - [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
