@@ -36,6 +36,7 @@
 
 ### Utility
 
+- [AppCleaner](https://freemacsoft.net/appcleane)
 - [CleanMyMac](https://cleanmymac.com)
 - [DisplayLink Manager](https://synaptics.com/products/displaylink-graphics/downloads/macos)
 - [Fontplop](https://github.com/matthewgonzalez/fontplop)
