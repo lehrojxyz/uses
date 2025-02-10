@@ -1,6 +1,4 @@
-# Uses
-
-> What I use everyday.
+# What I use everyday.
 
 ## Applications
 
