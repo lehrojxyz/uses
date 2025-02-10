@@ -4,7 +4,7 @@
 
 ## Applications
 
-### Work
+### Coding
 
 - [Bruno](https://usebruno.com)
 - [Cyberduck](https://cyberduck.io)
