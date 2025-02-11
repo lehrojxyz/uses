@@ -12,8 +12,8 @@
 - [OpenVPN Connect](https://openvpn.net)
 - [PhpStorm](https://jetbrains.com/fr-fr/phpstorm)
 - [Sequel Ace](https://sequel-ace.com)
-- [Visual Studio Code](https://code.visualstudio.com)
 - [Visual Paradigm](https://visual-paradigm.com)
+- [Visual Studio Code](https://code.visualstudio.com)
 
 ### Productivity
 
