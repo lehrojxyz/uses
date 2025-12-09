@@ -73,6 +73,22 @@ Extensions for Google Chrome :
 - [React Developer Tools](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 - [Wappalyzer](https://chromewebstore.google.com/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg)
 
+## Raycast
+
+Extensions for Raycast :
+
+- [Brew](https://raycast.com/nhojb/brew)
+- [Proton Authenticator](https://raycast.com/Fared/proton-authenticator)
+- [Kill Process](https://raycast.com/rolandleth/kill-process)
+- [IP Geolocation](https://raycast.com/koinzhang/ip-geolocation)
+- [Lorem Ipsum](https://raycast.com/AntonNiklasson/lorem-ipsum)
+- [Password Generator](https://raycast.com/joshuaiz/password-generator)
+- [Quit Applications](https://raycast.com/mackopes/quit-applications)
+- [GIF Search](https://raycast.com/josephschmitt/gif-search)
+- [Speedtest](https://raycast.com/tonka3000/speedtest)
+- [System Monitor](https://raycast.com/hossammourad/raycast-system-monitor)
+- [Whois](https://raycast.com/zavbala/whois)
+
 ## Editor
 
 Visual Studio Code is my go-to editor.
